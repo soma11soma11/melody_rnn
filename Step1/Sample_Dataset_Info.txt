@@ -1,0 +1,9 @@
+Dataset_name:lmd_matched
+
+You can find this data at
+http://colinraffel.com/projects/lmd/
+LMD-matched/mirror1
+
+------ Dataset information -----
+All_data_num:45,129
+data_type : MIDI files
